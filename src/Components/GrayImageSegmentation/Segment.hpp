@@ -10,7 +10,7 @@
 
 #include <cv.h>
 
-#include "Line.hpp"
+#include "Types/Line.hpp"
 
 namespace Types {
 namespace Segmentation {

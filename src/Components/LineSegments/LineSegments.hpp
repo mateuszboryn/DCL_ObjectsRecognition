@@ -15,7 +15,7 @@
 #include "Props.hpp"
 
 #include "../GrayImageSegmentation/SegmentedImage.hpp"
-#include "DrawableContainer.hpp"
+#include "Types/DrawableContainer.hpp"
 
 
 /**

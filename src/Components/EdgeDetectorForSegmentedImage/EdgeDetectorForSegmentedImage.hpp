@@ -13,8 +13,8 @@
 #include "Panel_Empty.hpp"
 #include "DataStream.hpp"
 #include "Props.hpp"
-#include "DrawableContainer.hpp"
-#include "Contour.hpp"
+#include "Types/DrawableContainer.hpp"
+#include "Types/Contour.hpp"
 
 #include "../GrayImageSegmentation/SegmentedImage.hpp"
 

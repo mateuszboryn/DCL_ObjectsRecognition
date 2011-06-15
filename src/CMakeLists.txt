@@ -13,10 +13,11 @@ include_directories(SYSTEM ${Boost_INCLUDE_DIR})
 # Find another necessary libraries
 
 # # OpenCV library
-# FIND_PACKAGE( OpenCV REQUIRED )
+FIND_PACKAGE( OpenCV REQUIRED )
 
 # Find another DCLs our one depends on
 # Use macro: DISCODE_FIND_DCL(<DCL_NAME>)
+DISCODE_FIND_DCL(CvBasic)
 
 # ##############################################################################
 # Add source directories
