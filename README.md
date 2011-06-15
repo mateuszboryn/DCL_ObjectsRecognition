@@ -4,7 +4,14 @@ ObjectsRecognition - DisCODe Component Library
 Description
 -----------
 
-CSP objects recognition
+CSP objects recognition.
+
+Exaple task is in tasks/example.xml. 
+It takse some primitive (triangle, quadrilateral, pentagon) models from TestData/primitives.xml.
+It operates on images from TestData/*.png.
+To run it, just type from tasks directory:
+
+    discode -L2 -T example.xml
 
 Dependencies
 ------------

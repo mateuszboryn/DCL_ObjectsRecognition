@@ -7,7 +7,7 @@
 		</Keyboard>
 		
         <ImageSource type="Sequence" thread="MainExecutor" group="s1">
-			<directory>/home/mboryn/segomo_mboryn/ROSM/dane_testowe/nie-kwadrat/</directory>
+			<directory>../TestData</directory>
 			<triggered>true</triggered>
 			<sort>true</sort>
 		</ImageSource>
@@ -41,7 +41,7 @@
 		</LineSegments>
 		
 		<CspObjectRecognize type="CspObjectRecognize" thread="MainExecutor" group="s1">
-			<modelsFilename>ROSM_models.xml</modelsFilename>		
+			<modelsFilename>../TestData/primitives.xml</modelsFilename>		
 		</CspObjectRecognize>
 	</Components>
 
