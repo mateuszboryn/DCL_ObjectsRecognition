@@ -4,14 +4,14 @@ ObjectsRecognition - DisCODe Component Library
 Description
 -----------
 
-Fill this section with description of this library.
+CSP objects recognition
 
 Dependencies
 ------------
 
-Put here any dependencies of this library (other DCLs, third party libraries etc)
+CvBasic
 
 Maintainer
 ----------
 
-Provide any information about yourself
+https://github.com/mateuszboryn
