@@ -12,5 +12,5 @@ LINK_DIRECTORIES(${ObjectsRecognition_LIB_DIR})
 
 # list of libraries to link against when using features of ObjectsRecognition
 # add all additional libraries built by this dcl (NOT components)
-# SET(ObjectsRecognition_LIBS lib_1 lib_2)
-# SET(ADDITIONAL_LIB_DIRS @CMAKE_INSTALL_PREFIX@/lib ${ADDITIONAL_LIB_DIRS})
+SET(ObjectsRecognition_LIBS GrayImageSegmentation)
+SET(ADDITIONAL_LIB_DIRS @CMAKE_INSTALL_PREFIX@/lib ${ADDITIONAL_LIB_DIRS})
