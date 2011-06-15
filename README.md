@@ -13,6 +13,10 @@ To run it, just type from tasks directory:
 
     discode -L2 -T example.xml
 
+
+See: http://robotyka.ia.pw.edu.pl/twiki/bin/viewfile/Publications/WebHome?rev=1;filename=2009_Lukasz_Czajka_mgr.pdf
+(CSP code stolen from Łukasz Czajka's Master Thesis)
+
 Dependencies
 ------------
 
