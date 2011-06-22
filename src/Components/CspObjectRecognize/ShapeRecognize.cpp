@@ -9,7 +9,7 @@
 
 #include <boost/foreach.hpp>
 
-#include "../GrayImageSegmentation/Segment.hpp"
+#include "Types/Segment.hpp"
 #include "LineSegment.hpp"
 
 #include "Logger.hpp"

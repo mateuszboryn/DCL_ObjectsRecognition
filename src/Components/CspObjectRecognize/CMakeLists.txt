@@ -9,6 +9,6 @@ FILE(GLOB files *.cpp)
 
 # Create an executable file from sources:
 ADD_LIBRARY(CspObjectRecognize SHARED ${files})
-TARGET_LINK_LIBRARIES(CspObjectRecognize ${OpenCV_LIBS} ${DisCODe_LIBRARIES} GrayImageSegmentation)
+TARGET_LINK_LIBRARIES(CspObjectRecognize ${OpenCV_LIBS} ${DisCODe_LIBRARIES} ObjectsRecognitionTypes)
 
 INSTALL_COMPONENT(CspObjectRecognize)

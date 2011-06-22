@@ -16,8 +16,8 @@
 #include "DataStream.hpp"
 #include "Property.hpp"
 
-#include "../GrayImageSegmentation/Segment.hpp"
-#include "../GrayImageSegmentation/SegmentedImage.hpp"
+#include "Types/Segment.hpp"
+#include "Types/SegmentedImage.hpp"
 
 /**
  * \defgroup ConvertSegments ConvertSegments

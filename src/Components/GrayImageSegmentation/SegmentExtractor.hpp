@@ -10,7 +10,7 @@
 
 #include <stack>
 
-#include "SegmentedImage.hpp"
+#include "Types/SegmentedImage.hpp"
 
 namespace Processors {
 namespace GrayImageSegmentation {

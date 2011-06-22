@@ -15,7 +15,7 @@
 #include "ObjectModel.hpp"
 #include "ObjectInstance.hpp"
 
-#include "../GrayImageSegmentation/SegmentedImage.hpp"
+#include "Types/SegmentedImage.hpp"
 
 namespace Processors {
 namespace CspObjectRecognize {

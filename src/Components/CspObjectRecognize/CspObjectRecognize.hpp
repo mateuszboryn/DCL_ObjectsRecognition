@@ -13,7 +13,7 @@
 #include "Panel_Empty.hpp"
 #include "DataStream.hpp"
 #include "Property.hpp"
-#include "../GrayImageSegmentation/SegmentedImage.hpp"
+#include "Types/SegmentedImage.hpp"
 #include "Types/DrawableContainer.hpp"
 #include "ShapeRecognize.hpp"
 #include "ModelsFactory.hpp"

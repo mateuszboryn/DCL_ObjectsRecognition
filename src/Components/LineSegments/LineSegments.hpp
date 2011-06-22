@@ -14,7 +14,7 @@
 #include "DataStream.hpp"
 #include "Props.hpp"
 
-#include "../GrayImageSegmentation/SegmentedImage.hpp"
+#include "Types/SegmentedImage.hpp"
 #include "Types/DrawableContainer.hpp"
 
 

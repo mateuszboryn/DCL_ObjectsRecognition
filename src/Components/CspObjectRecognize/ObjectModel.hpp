@@ -12,7 +12,7 @@
 #include <boost/property_tree/ptree.hpp>
 #include <cv.h>
 
-#include "../GrayImageSegmentation/SegmentedImage.hpp"
+#include "Types/SegmentedImage.hpp"
 #include "CspGraph.hpp"
 
 namespace Processors {

@@ -16,7 +16,7 @@
 #include "Types/DrawableContainer.hpp"
 #include "Types/Contour.hpp"
 
-#include "../GrayImageSegmentation/SegmentedImage.hpp"
+#include "Types/SegmentedImage.hpp"
 
 
 /**

@@ -9,6 +9,6 @@ FILE(GLOB files *.cpp)
 
 # Create an executable file from sources:
 ADD_LIBRARY(GrayImageSegmentation SHARED ${files})
-TARGET_LINK_LIBRARIES(GrayImageSegmentation ${OpenCV_LIBS} ${DisCODe_LIBRARIES})
+TARGET_LINK_LIBRARIES(GrayImageSegmentation ${OpenCV_LIBS} ${DisCODe_LIBRARIES} ObjectsRecognitionTypes)
 
 INSTALL_COMPONENT(GrayImageSegmentation)
